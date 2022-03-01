@@ -1,0 +1,65 @@
+h5{
+    background-color:#a9a9a9;
+    text-align: center;
+}
+h4
+{
+
+  text-align: center; 
+  color:black;
+  background-color:aqua ; 
+}
+   
+h1{
+    color:blue;
+    text-align: center;
+    
+    
+}
+
+ul{
+    background-color:blanchedalmond;
+}
+
+nav{
+    background-color:antiquewhite ;
+}
+h2{
+    color: white;
+    text-align: center;
+    background-color:black ;
+}
+.flex-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+#div1 {
+    width: 1500px;
+    height: 70px;
+    background-color:#a9a9a9;
+    font-weight: bold;
+    position: relative;
+    
+    animation : mymove 2s  infinite;
+  }
+  
+  #div1 {animation-timing-function:linear;}
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+  }
+  h6{
+      background-color:blanchedalmond;
+      text-align: center;
+  }
+
+  body
+  {
+     background-image: url(../assets/images/mammu3.jpg);
+  }
+  ul{
+      text-align: right;
+  }
