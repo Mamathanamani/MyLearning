@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+}
+style
+table, th, td {
+  border: 1px  solid black;
+  border-collapse: collapse;
+  text-align: center;
+}
+body{
+background-color:aquamarine antiquewhite;
+}
+
+h4{
+  text-align: center;
+}
+
+  
+tr:nth-child(even){background-color:black
+}
+
+tr:nth-child(odd){background-color:white}
+tr:nth-child(even){color:white}
+
+th {
+ 
+  color:black white;}
+
+
+
+
+#div1 {
+  width: 1500px;
+  height: 100px;
+  background-color:bisque;
+  font-weight: bold;
+  position: relative;
+  color:black;
+  
+  animation : mymove 2s  infinite;
+}
+
+#div1 {animation-timing-function:linear;}
+
+@keyframes mymove {
+  from {left: 0px;}
+  to {left: 300px;}
+}
