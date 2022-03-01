@@ -1,0 +1,29 @@
+h1{
+   text-align: center; 
+
+}
+h4{
+  text-align: center;
+    
+}
+body{
+    background-image: url(../../assets/images/mammu1.jpg);
+}
+#div1 {
+    width: 1500px;
+    height: 100px;
+    background-color:black;
+    font-weight: bold;
+    position: relative;
+    color:white;
+    
+    animation : mymove 2s  infinite;
+  }
+  
+  #div1 {animation-timing-function:linear;}
+  
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+  }
+

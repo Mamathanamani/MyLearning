@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+   background-color: aqua ;
+}
+#div1 {
+    width: 1500px;
+    height: 100px;
+    background-color:bisque;
+    font-weight: bold;
+    position: relative;
+    color:black;
+    text-align: center;
+    
+    animation : mymove 2s  infinite;
+  }
+  
+  #div1 {animation-timing-function:linear;}
+  
+  @keyframes mymove {
+    from {left: 0px;} to {left: 300px;}
+}
+
+
