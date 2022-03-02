@@ -42,7 +42,7 @@ h5{
 
   :host
   {
-     background-image: url(../../assets/images/papa.jpg);
+     background-image: url(/assets/images/papa.jpg);
   }
 h1{
     text-align: center;

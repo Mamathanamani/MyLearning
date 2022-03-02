@@ -1,5 +1,5 @@
 body{
-    background-image: url(../../assets/images/mammu3.jpg);
+    background-image: url(/assets/images/mammu3.jpg);
 }    
 
 
@@ -74,6 +74,6 @@ button:hover {
   }
 }
 div{
-  background-image: url(../../assets/images/mammu3.jpg);
+  background-image: url(/assets/images/mammu3.jpg);
     color: #f1f1f1;
 }
