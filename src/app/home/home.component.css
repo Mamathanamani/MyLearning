@@ -42,7 +42,7 @@ h5{
 
   :host
   {
-     background-image: url(https://inclusive-solutions.com/wp-content/uploads/2020/08/75729614.cms_.jpeg);
+     background-image: url("https://inclusive-solutions.com/wp-content/uploads/2020/08/75729614.cms_.jpeg");
   }
 h1{
     text-align: center;
