@@ -16,10 +16,7 @@ h5{
 .flex-container{
     display: flex;
     justify-content: space-around;
-    background-image: url("https://thumbs.dreamstime.com/b/education-child-holding-stack-books-mortar-board-chalk-drawing-blackboard-concept-university-future-aspirations-41028719.jpg");
 }
-
-
 #div1 {
     width: 1500px;
     height: 70px;
